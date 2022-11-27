@@ -1,0 +1,9 @@
+.layout{
+    display: flex;
+}
+.navContainer{
+    background-color: aqua;
+}
+.outletContainer{
+ flex-grow: 1;
+}
